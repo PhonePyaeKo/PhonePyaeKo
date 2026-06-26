@@ -27,6 +27,7 @@ Currently focusing on backend development while expanding my full-stack knowledg
 - HTML
 - CSS
 - Bootstrap
+- Tailwind CSS
 - JavaScript
 
 ### Database
@@ -38,6 +39,7 @@ Currently focusing on backend development while expanding my full-stack knowledg
 - Git & GitHub
 - Postman
 - VS Code
+- Other AI coding tools like Cursor, OpenAI, and GitHub Copilot.
 
 ---
 
