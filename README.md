@@ -52,7 +52,7 @@ Currently focusing on backend development while expanding my full-stack knowledg
 ---
 
 ## 🎯 Career Goal
-Seeking an opportunity as a Junior Backend Developer / Web Developer where I can contribute, learn, and grow through real-world experience.
+Seeking an opportunity as a Junior Full Stack Developer where I can contribute, continuously learn, and grow by building real-world web applications.
 
 ---
 
