@@ -1,7 +1,7 @@
 # Hi 👋, I'm Phone Pyae Ko.
 
 ## 👨‍💻 About Me
-I am a motivated and hardworking Junior Web Developer passionate about building web applications and continuously improving my skills.
+I am a motivated and hardworking Web Developer passionate about building web applications and continuously improving my skills.
 
 I enjoy turning ideas into functional systems and solving problems through clean and practical code.  
 Currently focusing on backend development while expanding my full-stack knowledge step by step.
@@ -52,7 +52,7 @@ Currently focusing on backend development while expanding my full-stack knowledg
 ---
 
 ## 🎯 Career Goal
-Seeking an opportunity as a Junior Full Stack Developer where I can contribute, continuously learn, and grow by building real-world web applications.
+Seeking an opportunity as Full Stack Developer where I can contribute, continuously learn, and grow by building real-world web applications.
 
 ---
 
